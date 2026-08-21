@@ -50,7 +50,7 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   <br/><br/>
 
   <!-- 🔥 Turt_Industry's Live Dynamic Workspace Metrics API 🔥 -->
-  <img src="https://blue-cake-c646.searingprince.workers.dev/" width="100%" alt="Shan's Live Workspace Metrics" />
+  <img src="https://blue-cake-c646.searingprince.workers.dev/" width="100%" alt="Turt Industry's Live Workspace Metrics" />
   <br/><br/>
 
   <!-- System Activity Streak -->
@@ -117,7 +117,7 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 
 <p align="left">
   <!-- Gmail -->
-  <a href="mailto:searingprince@gmail.com" target="_blank">
+  <a href="mailto:turtindustry@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
   </a>
   
@@ -127,12 +127,12 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/shanofficial0?igsh=MTNhc3NxMzVsY2dhcQ==" target="_blank">
+  <a href="[https://www.instagram.com/shanofficial0?igsh=MTNhc3NxMzVsY2dhcQ==](https://www.instagram.com/turtindustry?utm_source=qr&igsi=M2dzNG85bHFzenhr)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Connect" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/share/1edoPGkpas/" target="_blank">
+  <a href="[https://www.facebook.com/share/1edoPGkpas/](https://www.facebook.com/share/19BJzu4cvw/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Connect" />
   </a>
 </p>
